@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname":  "Mark",
+      "lname": "Zuckerberg",
+      "email": "mark@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0954721021",
+      "address": "USA"
+    },
+    {
+      "id": 2,
+      "fname": "Elon ",
+      "lname": "Musk",
+      "email": "elon@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0254052574",
+      "address": "USA"
+    },
+    {
+      "id": 3,
+      "fname": "Bill",
+      "lname": "Gate",
+      "email": "bill@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "4689656797",
+      "address": "USA"
+    },
+    {
+      "id": 4,
+      "fname": "Jeff",
+      "lname": "Beszos",
+      "email": "jeff@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0467979746",
+      "address": "USA"
+    },
+    {
+      "id": 5,
+      "fname": "Jack",
+      "lname": "ma",
+      "email": "jack@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "7878787879",
+      "address": "china"
+    }
+  ],
+  "Bird": [
+    {
+      "id": 1,
+      "name": "1.นกแก้วมาคอ (Basic stories)",
+      "location": "ประเทศเม็กซิโกและทวีปอเมริกาใต้ ",
+      "imageUrl": "https://gatoro.co/wp-content/uploads/2020/12/5642258C-4AB4-4F4A-B4AD-D59AB2A7AC68.png.webp"
+    },
+    {
+      "id": 2,
+      "name": "2.เลิฟเบิร์ด (love birds)",
+      "location": "แอฟริกาและมาดากัสการ์",
+      "imageUrl": "https://glurgang.com/wp-content/uploads/2022/09/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94.png"
+    },
+    {
+      "id": 3,
+      "name": "3.นกทูแคน (Toucans)",
+      "location": "มีถิ่นกำเนิดในทางใต้ของเม็กซิโก อเมริกากลาง ไปจนถึงอเมริกาใต้",
+      "imageUrl": "https://media.istockphoto.com/id/1129367310/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%97%E0%B8%B9%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2.jpg?s=612x612&w=0&k=20&c=NJryUe5H8TmWAJxppvelpsCRsIedScwuXA9VmXSHZvg="
+    },
+    {
+      "id": 4,
+      "name": "4.นกฟลามิงโก(flamingo)",
+      "location": "พบในทวีปแอฟริกา จนถึงทางตะวันตกเฉียงเหนือของอินเดีย",
+      "imageUrl": "https://btdigitalstorage.sgp1.cdn.digitaloceanspaces.com/2022/03/01-flamingo-friendships-nationalgeographic_1477297-scaled.webp"
+    },
+    {
+      "id": 5,
+      "name": "5.นกพัฟฟิน( Puffin)",
+      "location": "มหาสมุทรแอตแลนติก นกพัฟฟินแอตแลนติกผสมพันธุ์ในบริเวณประเทศไอซ์แลนด์ ประเทศนอร์เวย์",
+      "imageUrl": "http://realmetro.com/wp-content/uploads/2020/01/puffin-cover-1-735x400.jpg"
+    },
+    {
+      "id": 6,
+      "name": "6.นกคาร์ดินัล (Northern Cardinal)",
+      "location": "นกคาร์ดินัลแดง เป็นนกที่พบเห็นได้ทั่วไปทางตะวันออกของสหรัฐอเมริกา มีจุดเด่นที่สีแดงสด และขนบนหัวตั้ง ตามปกติจะแยกเพศได้ง่ายจากการที่ตัวผู้มีสีแดงสด ในขณะที่ตัวเมียจะมีสีออกน้ำตาล",
+      "imageUrl": "https://pbs.twimg.com/media/DwHnx_mVYAAZ75v.jpg"
+    },
+    {
+      "id": 7,
+      "name": "7.นกปีกเพลิงโบฮีเมียน(Bohemian Waxwing)",
+      "location": "ทวีปอเมริกาเหนือและเเถบยูเรเซีย ไปจนถึงในอลาสก้า",
+      "imageUrl": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 8,
+      "name": "8.นกพิราบหงอนวิคตอเรีย( Victoria Crowned-pigeon, Victoria Goura)",
+      "location": "ทวีปออสเตรเลีย และหมู่เกาะใกล้เคียง เช่น เกาะนิวกินี ",
+      "imageUrl": "https://animal2you.com/wp-content/uploads/2021/10/Victoria-Crowned-Pigeon1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "9.เป็ดวู๊ด หรือ เป็ดวู๊ดดัก (Wood Duck)",
+      "location": "พบในอเมริกาเหนือตอนกลาง แคนาดา ไทย อัสสัม พม่า ลาว เขมร มลายู สุมาตรา ชวา  ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvuoXRpiDrTTZj8kytuZpNmqQRoNHgr9XGw&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "10.นกยูง (Peacock)",
+      "location": "กระจายพันธุ์อยู่ทางเหนือของประเทศอินเดียไปทางทิศตะวันออกผ่านพม่า, ตอนใต้ของประเทศจีน, ไทย, ลาว, เวียดนาม, กัมพูชา, มาเลเซียและชวา  ",
+      "imageUrl": "https://www.shutterstock.com/image-photo/peacock-spread-wings-profile-260nw-567926224.jpg"
+    },
+    {
+      "id": 11,
+      "name": "11.ไก่ฟ้าสีทอง(golden pheasant)",
+      "location": "พบมากทางภาคกลางและภาคตะวันตกของสาธารณรัฐประชาชนจีน รวมถึงบางส่วนในปากีสถาน, อินเดีย, ศรีลังกา",
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/2UJqy3J2gvgXUcRzehyl3ULeDQgZSW0h3yMKzslHMluvxmIe_zQzFoYvN9_u5fyRwgM2fACEwTn0xKq2OStBcGAxoxMBjIPQds7QRXaMRFX8iuavtVT4Zb4uJzqGGiJ37mw7YGen0LLp"
+    },
+    {
+      "id": 12,
+      "name": "12.นกมาคอว์สีแดง(red macaw)",
+      "location": "อเมริกากลางและอเมริกาใต้ มันเป็นของตระกูลมาคอว์  ",
+      "imageUrl": "https://earthnworld.com/wp-content/webp-express/webp-images/uploads/2015/11/Scarlet-Macaw.jpg.webp"
+    }
+  ]
+}
